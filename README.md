@@ -1,6 +1,6 @@
 # Fintech Security Examples
 
-Node.js/TypeScript code samples for secure fintech development, presented at [Your Company] in Lusaka, Zambia.
+Node.js/TypeScript code samples for secure fintech development, presented at a Fintech in Lusaka, Zambia.
 
 ## Setup
 1. Install Node.js and npm.
