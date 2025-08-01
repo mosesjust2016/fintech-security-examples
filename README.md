@@ -4,7 +4,7 @@ Node.js/TypeScript code samples for secure fintech development, presented at a F
 
 ## Setup
 1. Install Node.js and npm.
-2. Clone this repo: `git clone https://github.com/[your-username]/fintech-security-examples`
+2. Clone this repo: `git clone https://github.com/mosesjust2016/fintech-security-examples`
 3. Run `npm install`
 4. Test examples: `ts-node src/[file].ts`
 
